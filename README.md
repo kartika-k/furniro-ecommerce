@@ -115,7 +115,7 @@ npm run dev
 ## 🚀 **Deployment**
 The project is deployed on **Vercel**.
 
-📍 **Live Demo**: *[Click Here](#)* (https://furniro-ecommerce-website-kk.vercel.app/)
+📍 **Live Demo**: (https://furniro-ecommerce-website-kk.vercel.app/)
 
 ---
 
